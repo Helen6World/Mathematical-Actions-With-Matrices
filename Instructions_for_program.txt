@@ -1,0 +1,20 @@
+***In English***
+
+The program calculates possible options for calculating matrices: addition, 
+subtraction, multiplication, multiplication of a matrix by a number, raising 
+to a degree, transposing a matrix, determining the determinant of a matrix
+Enjoy!
+
+***Українською мовою***
+
+Програма обчислює можливі варіанти підрахунку матриць: додавання, віднімання,
+множення, множення матриці на число, піднесення до степеню, транспонування
+матриці, визначення детермінанта матриці/
+Насолоджуйтесь!
+
+***На русском языке***
+
+Программа вычисляет возможные варианты подсчета матриц: сложение,
+вычитание, умножение, умножение матрицы на число, возведение
+в степень, транспонирования матрицы, определение детерминанта матрицы
+Наслаждайтесь!
